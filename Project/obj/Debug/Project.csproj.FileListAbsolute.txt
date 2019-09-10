@@ -1,0 +1,19 @@
+D:\Cs\3D Visualisation\Project\Project\bin\Debug\Project.exe.config
+D:\Cs\3D Visualisation\Project\Project\bin\Debug\Project.exe
+D:\Cs\3D Visualisation\Project\Project\bin\Debug\Project.pdb
+D:\Cs\3D Visualisation\Project\Project\obj\Debug\Project.csprojResolveAssemblyReference.cache
+D:\Cs\3D Visualisation\Project\Project\obj\Debug\Project.Form1.resources
+D:\Cs\3D Visualisation\Project\Project\obj\Debug\Project.Properties.Resources.resources
+D:\Cs\3D Visualisation\Project\Project\obj\Debug\Project.csproj.GenerateResource.Cache
+D:\Cs\3D Visualisation\Project\Project\obj\Debug\Project.exe
+D:\Cs\3D Visualisation\Project\Project\obj\Debug\Project.pdb
+D:\Cs\Semester 7\Semester 7\3D Visualisation\3D Visualisation\Project\Project\bin\Debug\Project.exe.config
+D:\Cs\Semester 7\Semester 7\3D Visualisation\3D Visualisation\Project\Project\bin\Debug\Project.exe
+D:\Cs\Semester 7\Semester 7\3D Visualisation\3D Visualisation\Project\Project\bin\Debug\Project.pdb
+D:\Cs\Semester 7\Semester 7\3D Visualisation\3D Visualisation\Project\Project\obj\Debug\Project.csprojAssemblyReference.cache
+D:\Cs\Semester 7\Semester 7\3D Visualisation\3D Visualisation\Project\Project\obj\Debug\Project.Form1.resources
+D:\Cs\Semester 7\Semester 7\3D Visualisation\3D Visualisation\Project\Project\obj\Debug\Project.Properties.Resources.resources
+D:\Cs\Semester 7\Semester 7\3D Visualisation\3D Visualisation\Project\Project\obj\Debug\Project.csproj.GenerateResource.cache
+D:\Cs\Semester 7\Semester 7\3D Visualisation\3D Visualisation\Project\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+D:\Cs\Semester 7\Semester 7\3D Visualisation\3D Visualisation\Project\Project\obj\Debug\Project.exe
+D:\Cs\Semester 7\Semester 7\3D Visualisation\3D Visualisation\Project\Project\obj\Debug\Project.pdb
